@@ -1,6 +1,6 @@
 //
 // Code written by Adil
-// inst: @adilmaks.exe
+// inst: @adilmakss
 //
 
 if (window.location.origin !== "https://www.instagram.com") {
